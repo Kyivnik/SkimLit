@@ -30,7 +30,7 @@ The increasing number of RCT papers, especially those without structured abstrac
 ## Solution
 SkimLit proposes an NLP model to classify abstract sentences into their roles, allowing researchers to quickly skim through literature. This approach aims to facilitate efficient information retrieval and enable researchers to delve deeper when necessary.
 
-Feel free to explore the code and documentation provided to gain insights into the implementation of SkimLit. Happy reading and coding! 🚀📚
+This project was in the course of TensorFlow
 
 
 
