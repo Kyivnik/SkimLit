@@ -1,4 +1,4 @@
-# BitPredict
+# SkimLit
 
 ### Model which have been used in this projet:
  0. Naive model
