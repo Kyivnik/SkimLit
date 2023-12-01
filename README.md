@@ -1,4 +1,4 @@
-# SkimLit 🤓🔥 - NLP Sequential Sentence Classification
+# SkimLit - NLP Sequential Sentence Classification
 Welcome to SkimLit, a project focused on creating a Natural Language Processing (NLP) model for classifying abstract sentences into their respective roles, such as objective, methods, results, etc. This enables researchers to skim through vast amounts of literature quickly and dive deeper when necessary.
 
 ## Overview
